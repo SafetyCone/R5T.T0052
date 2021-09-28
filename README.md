@@ -1,0 +1,2 @@
+# R5T.T0052
+{Type Code}-{GUID} strongly-typed GUID types library.
